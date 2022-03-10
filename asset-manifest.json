@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ZaysanRaptors/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ZaysanRaptors/static/js/main.61c7f967.chunk.js",
+    "main.js.map": "/ZaysanRaptors/static/js/main.61c7f967.chunk.js.map",
+    "runtime-main.js": "/ZaysanRaptors/static/js/runtime-main.948a88a2.js",
+    "runtime-main.js.map": "/ZaysanRaptors/static/js/runtime-main.948a88a2.js.map",
+    "static/js/2.1738999e.chunk.js": "/ZaysanRaptors/static/js/2.1738999e.chunk.js",
+    "static/js/2.1738999e.chunk.js.map": "/ZaysanRaptors/static/js/2.1738999e.chunk.js.map",
+    "static/js/3.167f0938.chunk.js": "/ZaysanRaptors/static/js/3.167f0938.chunk.js",
+    "static/js/3.167f0938.chunk.js.map": "/ZaysanRaptors/static/js/3.167f0938.chunk.js.map",
+    "index.html": "/ZaysanRaptors/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ZaysanRaptors/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.1738999e.chunk.js.LICENSE.txt": "/ZaysanRaptors/static/js/2.1738999e.chunk.js.LICENSE.txt",
+    "static/media/bg1.3d97c9b6.jpg": "/ZaysanRaptors/static/media/bg1.3d97c9b6.jpg",
+    "static/media/congrats.54eb7f1e.gif": "/ZaysanRaptors/static/media/congrats.54eb7f1e.gif",
+    "static/media/plexoo.e54c91f4.png": "/ZaysanRaptors/static/media/plexoo.e54c91f4.png",
+    "static/media/zoom.f777432a.png": "/ZaysanRaptors/static/media/zoom.f777432a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.948a88a2.js",
+    "static/js/2.1738999e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.61c7f967.chunk.js"
+  ]
+}
