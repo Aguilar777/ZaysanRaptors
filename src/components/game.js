@@ -83,7 +83,7 @@ const Game = () => {
 
     return (
         <div style={{ position: 'relative' }}>
-            <h1 style={{ position: 'absolute', left: 20, top: 0, color: 'white' }}>Created by, Aguilar77$#6106</h1>
+            <h1 style={{ position: 'absolute', left: 20, top: 0, color: 'white' }}>Created by: Aguilar77$#6106</h1>
             <div style={{ position: 'absolute', right: 20, top: 0 }}>
                 <h1 style={{ color: 'white' }}>ZAYSAN RAPTORS</h1>
                 <h1 style={{ color: 'white' }}>TIC TAC TOE GAME</h1>
